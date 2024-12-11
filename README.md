@@ -19,7 +19,7 @@ https://francis-rings.github.io/StableAnimator/
 
 ### 🖼 Output
 
-
+https://github.com/user-attachments/assets/0371edbc-61c4-4acf-b6aa-c35bddfd7fb3
 
 ### 🏢 Sponsor
 https://modelslab.com
